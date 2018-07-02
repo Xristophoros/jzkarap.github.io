@@ -1,1 +1,15 @@
+# Site Settings
 theme: jekyll-theme-midnight
+title: GitHub Pages
+email: jzkarap@gmail.com
+description: >
+  My resume and portfolio
+baseurl: ""
+url: "http://localhost:4000"
+github_username:  jzkarap
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
