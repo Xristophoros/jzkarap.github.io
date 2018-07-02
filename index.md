@@ -23,7 +23,7 @@ theme: jekyll-theme-midnight
 			work of those around me.</p>
 			<h4>TECHNICAL PROJECTS</h4>
 			<p><a href="https://github.com/jzkarap/TicTacToe">Tic-Tac Toe</a></p>
-			<ul style="line-height:1;">
+			<ul>
 				<li a href="https://github.com/jzkarap/TicTacToe">Game application for two players</a></li>
 				<li>C#</li>
 				</ul>
