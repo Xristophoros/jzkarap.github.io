@@ -27,7 +27,7 @@ theme: jekyll-theme-midnight
 				<li a href="https://github.com/jzkarap/TicTacToe">Game application for two players</a></li>
 				<li>C#</li>
 				</ul>
-			<p>Vending Machine</p>
+			<p><a href="https://github.com/jzkarap/VendingMachine">Vending Machine</a></p>
 			<ul>
 				<li>A functional virtual vending machine</li>
 				<li>Reads inventory from .txt</li>
