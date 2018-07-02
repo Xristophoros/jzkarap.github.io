@@ -1,123 +1,61 @@
 ---
-layout: default
+theme: jekyll-theme-midnight
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+	<body>
+		<div id="header">
+			<h1 id="name">JOHN KARAPLIS</h1>
+			<p><a href="jzkarap@gmail.com">jzkarap@gmail.com</a></p>
+			<p><a href="https://www.linkedin.com/in/johnkaraplis/">LinkedIn</a></p>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>ME</h4>
+			<p>I'm a dedicated, fast learner, consistently recognized for a profound work ethic 
+			and a commitment to a job done thoroughly and done well. I am driven to learn new skills 
+			and master new systems, and am quick to adapt to changes in both process and environment. 
+			I've been frequently complimented on my ability to communicate. I strive to find ways to 
+			improve my knowledge, my skills, and my ability to improve not only my own work, but the 
+			work of those around me.</p>
+			<h4>TECHNICAL PROJECTS</h4>
+			<p><a href="https://github.com/jzkarap/TicTacToe">Tic-Tac Toe</a></p>
+			<ul style="line-height:1;">
+				<li a href="https://github.com/jzkarap/TicTacToe">Game application for two players</a></li>
+				<li>C#</li>
+				</ul>
+			<p>Vending Machine</p>
+			<ul>
+				<li>A functional virtual vending machine</li>
+				<li>Reads inventory from .txt</li>
+				<li>Displays inventory, allows transactions, calculates remaining inventory</li>
+				<li>C#</li>
+			</ul>
+			<p>National Parks Reservation System</p>
+			<ul>
+			<li>Virtual system for reserving campsite at a national park</li>
+			<li>Reads information from database</li>
+			<li>Provides user information on parks, campgrounds, and campsites</li>
+			<li>Does not allow reservations to be booked if a reservation for selected dates exists</li>
+			<li>Calculates cost of total stay</li>
+			<li>C#, SQL</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Languages: C#, SQL</p>
+			<p>Frameworks: .NET</p>
+			<h4>EDUCATION</h4>
+			<p>Bowling Green State University (Graduated 2011)</p>
+			<ul>
+				<li>Major: Film Production</li>
+				<li>Minor: Creative Writing</li>
+			</ul>
+			<p>Tech Elevator</p>
+			<ul>
+			    <li>.NET Bootcamp</li>
+			</ul>
+		</div>
+	</body>
+</html>
