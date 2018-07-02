@@ -41,8 +41,7 @@ theme: jekyll-theme-midnight
 			<li>Provides user information on parks, campgrounds, and campsites</li>
 			<li>Does not allow reservations to be booked if a reservation for selected dates exists</li>
 			<li>Calculates cost of total stay</li>
-			<li>C#, SQL</li>
-			</ul>
+			<li>C#, SQL</li>	
 			<h4>Skills</h4>
 			<p>Languages: C#, SQL</p>
 			<p>Frameworks: .NET</p>
@@ -55,6 +54,7 @@ theme: jekyll-theme-midnight
 			<p>Tech Elevator</p>
 			<ul>
 			    <li>.NET Bootcamp</li>
+			</ul>
 			</ul>
 		</div>
 	</body>
