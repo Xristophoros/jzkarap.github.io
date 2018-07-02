@@ -9,9 +9,9 @@ theme: jekyll-theme-midnight
 	<body>
 		<div id="header">
 			<h1 id="name">JOHN KARAPLIS</h1>
-			<p><a href="jzkarap@gmail.com">jzkarap@gmail.com</a></p>
-			<p><a href="https://www.linkedin.com/in/johnkaraplis/">LinkedIn</a></p>
 		</div>
+		<p><a href="jzkarap@gmail.com">jzkarap@gmail.com</a></p>
+			<p><a href="https://www.linkedin.com/in/johnkaraplis/">LinkedIn</a></p>
 		<div class="left"></div>
 		<div class="right">
 			<h4>ME</h4>
@@ -42,6 +42,7 @@ theme: jekyll-theme-midnight
 			<li>Does not allow reservations to be booked if a reservation for selected dates exists</li>
 			<li>Calculates cost of total stay</li>
 			<li>C#, SQL</li>	
+			</ul>
 			<h4>Skills</h4>
 			<p>Languages: C#, SQL</p>
 			<p>Frameworks: .NET</p>
@@ -55,7 +56,7 @@ theme: jekyll-theme-midnight
 			<ul>
 			    <li>.NET Bootcamp</li>
 			</ul>
-			</ul>
+			
 		</div>
 	</body>
 </html>
