@@ -7,11 +7,6 @@ theme: jekyll-theme-midnight
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 	</head>
 	<body>
-		<div id="header">
-			<h1 align="center">JOHN KARAPLIS</h1>
-		</div>
-		<p><a href="jzkarap@gmail.com">jzkarap@gmail.com</a></p>
-		<p><a href="https://www.linkedin.com/in/johnkaraplis/">LinkedIn</a></p>
 		<div class="left"></div>
 		<div class="right">
 			<h4>ME</h4>
