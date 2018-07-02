@@ -8,10 +8,10 @@ theme: jekyll-theme-midnight
 	</head>
 	<body>
 		<div id="header">
-			<h1 id="name">JOHN KARAPLIS</h1>
+			<h1 align="center">JOHN KARAPLIS</h1>
 		</div>
 		<p><a href="jzkarap@gmail.com">jzkarap@gmail.com</a></p>
-			<p><a href="https://www.linkedin.com/in/johnkaraplis/">LinkedIn</a></p>
+		<p><a href="https://www.linkedin.com/in/johnkaraplis/">LinkedIn</a></p>
 		<div class="left"></div>
 		<div class="right">
 			<h4>ME</h4>
@@ -55,8 +55,7 @@ theme: jekyll-theme-midnight
 			<p>Tech Elevator</p>
 			<ul>
 			    <li>.NET Bootcamp</li>
-			</ul>
-			
+			</ul>	
 		</div>
 	</body>
 </html>
