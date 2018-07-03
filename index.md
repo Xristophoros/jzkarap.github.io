@@ -16,10 +16,10 @@ theme: jekyll-theme-midnight
 			I've been frequently complimented on my ability to communicate. I strive to find ways to 
 			improve my knowledge, my skills, and my ability to improve not only my own work, but the 
 			work of those around me.</p>
-			<h4>TECHNICAL PROJECTS</h4>
+			<h4>PROJECTS</h4>
 			<p><a href="https://github.com/jzkarap/TicTacToe">Tic-Tac Toe</a></p>
 			<ul>
-				<li a href="https://github.com/jzkarap/TicTacToe">Game application for two players</a></li>
+				<li>Game application for two players</li>
 				<li>C#</li>
 				</ul>
 			<p><a href="https://github.com/jzkarap/VendingMachine">Vending Machine</a></p>
@@ -38,7 +38,7 @@ theme: jekyll-theme-midnight
 			<li>Calculates cost of total stay</li>
 			<li>C#, SQL</li>	
 			</ul>
-			<h4>Skills</h4>
+			<h4>SKILLS</h4>
 			<p>Languages: C#, SQL</p>
 			<p>Frameworks: .NET</p>
 			<h4>EDUCATION</h4>
