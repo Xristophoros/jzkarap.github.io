@@ -35,7 +35,7 @@ theme: jekyll-theme-midnight
 			<li>Reads information from database</li>
 			<li>Provides user information on parks, campgrounds, and campsites</li>
 			<li>Does not allow reservations to be booked if a reservation for selected dates exists</li>
-			<li>Calculates cost of total stay</li>
+			<li>Calculates total cost of stay</li>
 			<li>C#, SQL</li>	
 			</ul>
 			<h4>SKILLS</h4>
