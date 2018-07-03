@@ -25,11 +25,11 @@ theme: jekyll-theme-midnight
 			<p><a href="https://github.com/jzkarap/VendingMachine">Vending Machine</a></p>
 			<ul>
 				<li>A functional virtual vending machine</li>
-				<li>Reads inventory from .txt</li>
+				<li>Reads inventory from .txt using file I/O</li>
 				<li>Displays inventory, allows transactions, calculates remaining inventory</li>
 				<li>C#</li>
 			</ul>
-			<p>National Parks Reservation System</p>
+			<p><a href="https://github.com/jzkarap/ParksReservation">National Parks Reservation System</a></p>
 			<ul>
 			<li>Virtual system for reserving campsite at a national park</li>
 			<li>Reads information from database</li>
@@ -47,7 +47,7 @@ theme: jekyll-theme-midnight
 				<li>Major: Film Production</li>
 				<li>Minor: Creative Writing</li>
 			</ul>
-			<p>Tech Elevator</p>
+			<p>Tech Elevator (Current student)</p>
 			<ul>
 			    <li>.NET Bootcamp</li>
 			</ul>	
